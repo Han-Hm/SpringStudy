@@ -27,6 +27,7 @@ public class Compiler {
 //
 //        builder = new ProcessBuilder(command);
 //        process = builder.start();
+        // 동기 비동기인지 체크
 
 
         StringBuilder result = new StringBuilder();
